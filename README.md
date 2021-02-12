@@ -1,3 +1,3 @@
 # Redux Tutorial
 
-Learning Redux on programs with Vanilla JS and React.
+Learning Redux on programs with Vanilla JS.
